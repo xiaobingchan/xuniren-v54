@@ -1,0 +1,4 @@
+.....................
+[python.pipapi]
+requirements=['python-osc']
+use_online_index=true

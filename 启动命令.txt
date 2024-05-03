@@ -1,0 +1,13 @@
+0，启动frp
+
+c:
+cd  C:\Users\Administrator\Desktop\frp_0.52.3_windows_amd64\frp_0.52.3_windows_amd64\
+frpc.exe -c frpc.ini
+
+
+1, 启动嘴型服务器
+
+2，启动python接收mp3文件到本地
+
+3, 发送文件：
+

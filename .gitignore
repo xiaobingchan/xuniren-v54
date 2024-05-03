@@ -1,0 +1,4 @@
+asr/*.bin
+asr/*.param
+__pycache__/
+secrets.ini
